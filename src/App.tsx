@@ -1,9 +1,7 @@
+import Todo from './containers/Todo/Todo';
+
 const App = () => {
-  return (
-    <div>
-      App
-    </div>
-  );
+  return (<Todo />);
 };
 
 export default App;
